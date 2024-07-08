@@ -1,7 +1,13 @@
-
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
-<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
-   <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
-<style>@keyframes x{}</style><xss style="animation-name:x" onanimationstart="alert(1)"></xss>
-</svg>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SVG Image from File</title>
+</head>
+<body>
+  <h1>Embedding an SVG Image from a File</h1>
+  <p>This page includes an SVG image of the Anthropic logo from an external file:</p>
+  <a href="https://www.anthropic.com">
+    <img src="anthropic_logo.svg" alt="Anthropic Logo" width="200" height="200">
+  </a>
+</body>
+</html>
